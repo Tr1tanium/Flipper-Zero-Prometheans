@@ -7,3 +7,5 @@ Usage ↓↓↓↓
   1. Select infrared in the Flipper menu
   2. Select the Promethean model .ir
   3. Point and click adventure game (pray nobody sees you)
+
+Use RESPONSIBLY
