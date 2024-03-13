@@ -1,0 +1,86 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 18 00 00 00
+# 
+name: Freeze
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 12 00 00 00
+# 
+name: Menu
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 40 00 00 00
+# 
+name: Touchscreen_Toggle
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 0E 00 00 00
+# 
+name: Back
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 0A 00 00 00
+# 
+name: Vol_up
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+# 
+name: Vol_down
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 10 00 00 00
+# 
+name: Sources
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 0D 00 00 00
+# 
+name: Settings
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 25 00 00 00
+# 
+name: Ok/Select
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 55 00 00 00
+# 
+name: Up
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 46 00 00 00
+# 
+name: Down
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 16 00 00 00
+# 
+name: Right
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 15 00 00 00
+# 
+name: Left
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 47 00 00 00
