@@ -12,3 +12,69 @@ type: parsed
 protocol: NEC
 address: 31 00 00 00
 command: 8E 00 00 00
+# 
+name: Up
+type: parsed
+protocol: NEC
+address: 31 00 00 00
+command: C6 00 00 00
+# 
+name: Down
+type: parsed
+protocol: NEC
+address: 31 00 00 00
+command: C7 00 00 00
+# 
+name: Left
+type: parsed
+protocol: NEC
+address: 31 00 00 00
+command: C8 00 00 00
+# 
+name: Right
+type: parsed
+protocol: NEC
+address: 31 00 00 00
+command: C9 00 00 00
+# 
+name: Ok/Select
+type: parsed
+protocol: NEC
+address: 31 00 00 00
+command: CA 00 00 00
+# 
+name: Zoom_in
+type: parsed
+protocol: NEC
+address: 31 00 00 00
+command: 8A 00 00 00
+# 
+name: Zoom_out
+type: parsed
+protocol: NEC
+address: 31 00 00 00
+command: 8D 00 00 00
+# 
+name: Menu
+type: parsed
+protocol: NEC
+address: 31 00 00 00
+command: 87 00 00 00
+# 
+name: Source
+type: parsed
+protocol: NEC
+address: 31 00 00 00
+command: 83 00 00 00
+# 
+name: Pg_up
+type: parsed
+protocol: NEC
+address: 31 00 00 00
+command: CB 00 00 00
+# 
+name: Pg_down
+type: parsed
+protocol: NEC
+address: 31 00 00 00
+command: CC 00 00 00
